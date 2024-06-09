@@ -1,2 +1,3 @@
 this is comparision lecture
 this is stach lecture change in file 1
+this is stash lecture change for untracked file 1
