@@ -1,1 +1,2 @@
 this is comparision lecture
+this is stach lecture change in file 1
